@@ -1,4 +1,5 @@
 #include <asm/uaccess.h>
+#include <linux/uaccess.h>
 #include <linux/dma/xilinx_dma.h>
 #include <linux/cdev.h>
 #include <linux/dma-mapping.h>
